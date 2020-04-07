@@ -24,4 +24,4 @@ export default {
 p {
   font-style: italic;
 }
-</style>
+</style> 
